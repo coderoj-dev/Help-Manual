@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,R as o}from"./chunks/framework.IdF5L26a.js";const p=JSON.parse('{"title":"Hello World","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},l=o("",4),n=[l];function d(i,s,c,h,_,u){return a(),t("div",null,n)}const f=e(r,[["render",d]]);export{p as __pageData,f as default};
